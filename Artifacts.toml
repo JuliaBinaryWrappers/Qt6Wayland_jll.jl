@@ -1,0 +1,10 @@
+[[Qt6Wayland]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6175aca6edc674fdef8f9edcdcac7e1a42baec1e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "6047fa8d381e401788e1c252aeca176324d38df530553d7ccee9c79dece88216"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.4.2+0/Qt6Wayland.v6.4.2.x86_64-linux-musl-cxx11.tar.gz"
