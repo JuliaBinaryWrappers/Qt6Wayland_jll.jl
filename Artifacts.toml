@@ -1,10 +1,184 @@
 [[Qt6Wayland]]
-arch = "x86_64"
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3330d6f2abefa3361f195456491aed558e10b150"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "7c64c8d3c6a29f8dcabb6e1503e1e27a70f61e4679193dc85255e6ae52156664"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "30bdeb50f75520c10f3602cfd0c6beabcd548c48"
+git-tree-sha1 = "5f1672d73c07cd7649abfe2e658b4cd6447d47ac"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "ebb0bb17e96d22dd4b0701034b0a4ffa7ed98ac495d0c86799da8271d1afe7cf"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "354a4bad7420b5606ced0fb71f4d138b8758f05a"
 libc = "musl"
 os = "linux"
 
     [[Qt6Wayland.download]]
-    sha256 = "3a213490e9efe850a87d810ae31777a24d8d44720da12784e2c8eeb6b8fe7e8b"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+0/Qt6Wayland.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "d40c59ce7bda85e53e2b8b1f05c897c0c0d3a65489b08c4c366053bfc316c1f4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d52046cb2af9904e4a249ffb4b3bd7d29937eab2"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "36d782dcb2e3736dd8215d0776caae37df321441f492cf09c50b306f47f6c2f5"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "25e5141b4a189bf5e22b59e1037587ac1b61d3cd"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "e4924ff746199f7975daa950e77039322e2a5514d9f83ed80a76f14e257833f9"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "89f10f8d2b442827b9db817fa908bbfe0750e2e1"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "1994cb646e5da9c443873c53238ab7cb8d86575e4487bab24f1a94050deec593"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "555ba5ddd1959c2a44629350e6db7b828c0c887e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "3f7236c1a28a819a5de0bef8408114eec4b1458a38d38362a08217d132566927"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b5edf5adf0791d15820ad3214f7bd08e218015f0"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "f4c2aa509d6e50f7222b340314aeb588ee5e5b6596310eaa95b52113d0cc5d15"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "72ca7d485e94943aa36e2bac1095bd1348a5b0cb"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "af6a944dd9992df0c000cfb94481ac8d9b701f66f92e1fe78aaa3a6e9d1f4cfa"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d87aeb13258c80dc8ef06676b81b10558b6f5dd"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "f75463ffb9e5688de7c4968cb3c36a09207bbf7d6732d4aa02b4ae3f53e9c02b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b7157e8d5b34f093fa7fd4309b3835306648528b"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "8e62530dedab3045735aacae57c2cc1e55cbc12c316a926d11872c15dc00bdc0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a7d521463ef6bdbcfe8155801f653b100047fc1"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "5fe9a0ad63bce658b4fee6c72a13571afbe7511cfb6365fb7611c7a95221be9e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c2bedce1d096c4d9f0d4f25103a7e18874c9e82a"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "2889b8be13f2561c378397f7e26cd27a251d24db8526a09b5b8286ed9326b971"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "874982035e5e10332d06c24f71d2f659e3bf4b58"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "9fcbd55315e64c8668996285d53781f7e3b9ac7f46713226bd7269c45c2ab2eb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe1cd8d7b8d16caf5061a260a948574f50f36d5b"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "3a486c8501965dca9fc850e261179f77254183810c9f183660aef28b8496968b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6382aca22309c0e34ca39fc82a17e5a877c7d3e"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "25e60e1befc38539b285ac54e6bc93927308fd3468611a1a8c461e851537ff6b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6Wayland]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "38f007bd69a16a1a76bcd1ad8d1a07376cd9b76b"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "e28b59da0f8ddb6cbd4596d9aa36503037ff854a6b4a47af22fab5d0b51df0a1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6Wayland]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f45cccbb54f44e910a93702e2a1181fc1afe31e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Wayland.download]]
+    sha256 = "325bafc71c3b4c05c9b3bb2bc3792996d42892d1dacf186b4356d324b4829206"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Wayland_jll.jl/releases/download/Qt6Wayland-v6.5.2+1/Qt6Wayland.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
