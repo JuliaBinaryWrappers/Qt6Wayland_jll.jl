@@ -13,7 +13,4 @@ function __init__()
     )
 
     JLLWrappers.@generate_init_footer()
-    ENV["QT_PLUGIN_PATH"] = qt6plugins_dir
-ENV["__EGL_VENDOR_LIBRARY_DIRS"] = get(ENV, "__EGL_VENDOR_LIBRARY_DIRS", "/usr/share/glvnd/egl_vendor.d")
-
 end  # __init__()
